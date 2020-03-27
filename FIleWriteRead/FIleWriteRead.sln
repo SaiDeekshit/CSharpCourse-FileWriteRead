@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FIleWriteRead", "FIleWriteRead\FIleWriteRead.csproj", "{57670F8F-CB97-43F9-BCC2-3A5A48222F20}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57670F8F-CB97-43F9-BCC2-3A5A48222F20}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{57670F8F-CB97-43F9-BCC2-3A5A48222F20}.Debug|anycpu.Build.0 = Debug|anycpu
+		{57670F8F-CB97-43F9-BCC2-3A5A48222F20}.Release|anycpu.ActiveCfg = Release|anycpu
+		{57670F8F-CB97-43F9-BCC2-3A5A48222F20}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
